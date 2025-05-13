@@ -3,15 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GymManagement.Api", "GymManagement.Api\GymManagement.Api.csproj", "{DAA000A1-B65E-405E-80CA-9A1A4CE922A4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FitTrack.Api", "FitTrack.Api\FitTrack.Api.csproj", "{DAA000A1-B65E-405E-80CA-9A1A4CE922A4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GymManagement.Application", "GymManagement.Application\GymManagement.Application.csproj", "{3A4A5DBB-9E2D-4B44-A2CF-00A35D235B9F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FitTrack.Application", "FitTrack.Application\FitTrack.Application.csproj", "{3A4A5DBB-9E2D-4B44-A2CF-00A35D235B9F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GymManagement.Domain", "GymManagement.Domain\GymManagement.Domain.csproj", "{FF6FC80D-9651-4431-A881-198FFAD5AAB9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FitTrack.Domain", "FitTrack.Domain\FitTrack.Domain.csproj", "{FF6FC80D-9651-4431-A881-198FFAD5AAB9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GymManagement.Infrastructure", "GymManagement.Infrastructure\GymManagement.Infrastructure.csproj", "{B4ED5B36-671E-4F27-8867-F93BE6C75F91}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FitTrack.Infrastructure", "FitTrack.Infrastructure\FitTrack.Infrastructure.csproj", "{B4ED5B36-671E-4F27-8867-F93BE6C75F91}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GymManagement.Contracts", "GymManagement.Contracts\GymManagement.Contracts.csproj", "{6BAAE381-F487-418C-B6F6-9FD26252B45D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FitTrack.Contracts", "FitTrack.Contracts\FitTrack.Contracts.csproj", "{6BAAE381-F487-418C-B6F6-9FD26252B45D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

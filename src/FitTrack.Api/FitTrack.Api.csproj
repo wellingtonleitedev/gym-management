@@ -11,8 +11,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\GymManagement.Application\GymManagement.Application.csproj" />
-    <ProjectReference Include="..\GymManagement.Contracts\GymManagement.Contracts.csproj" />
+    <ProjectReference Include="..\FitTrack.Application\FitTrack.Application.csproj" />
+    <ProjectReference Include="..\FitTrack.Contracts\FitTrack.Contracts.csproj" />
   </ItemGroup>
 
 </Project>

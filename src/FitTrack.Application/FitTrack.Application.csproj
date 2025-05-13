@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <ItemGroup>
-    <ProjectReference Include="..\GymManagement.Application\GymManagement.Application.csproj" />
+    <ProjectReference Include="..\FitTrack.Domain\FitTrack.Domain.csproj" />
   </ItemGroup>
 
   <PropertyGroup>
